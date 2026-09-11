@@ -1,0 +1,14 @@
+C:\Users\mathe\Downloads\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.exe
+C:\Users\mathe\Downloads\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.deps.json
+C:\Users\mathe\Downloads\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.runtimeconfig.json
+C:\Users\mathe\Downloads\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.dll
+C:\Users\mathe\Downloads\ConsumerAdviceApi\bin\Debug\net10.0\ConsumerAdviceApi.pdb
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.AssemblyInfoInputs.cache
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.AssemblyInfo.cs
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.dll
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\refint\ConsumerAdviceApi.dll
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.pdb
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ConsumerAdviceApi.genruntimeconfig.cache
+C:\Users\mathe\Downloads\ConsumerAdviceApi\obj\Debug\net10.0\ref\ConsumerAdviceApi.dll
